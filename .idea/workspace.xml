@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0aa90b2-95a6-4416-9e45-83d7d70f1568" name="Changes" comment="">
+    <list default="true" id="d0aa90b2-95a6-4416-9e45-83d7d70f1568" name="Changes" comment="versao 1">
+      <change afterPath="$PROJECT_DIR$/src/HelpBuy/Calcular.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelpBuy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelpBuy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelpBuy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelpBuy/HelpBuy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +25,18 @@
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tiagolfe"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tiagolfe&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/tiagolfe/helpBuy.git",
-    "accountId": "545c9e37-4a57-4504-815d-ba39a25d0709"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tiagolfe/helpBuy.git&quot;,
+    &quot;accountId&quot;: &quot;545c9e37-4a57-4504-815d-ba39a25d0709&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -47,19 +48,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.HelpBuy.executor": "Run",
-    "Application.LoginSystem.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "development",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "vcs.log"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelpBuy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoginSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sistema_Bichara.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;development&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.log&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.HelpBuy">
     <configuration name="HelpBuy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelpBuy" />
+      <option name="MAIN_CLASS_NAME" value="HelpBuy.HelpBuy" />
       <module name="helpBuy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,9 +74,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sistema_Bichara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sistema_Bichara" />
+      <module name="helpBuy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.HelpBuy" />
+        <item itemvalue="Application.Sistema_Bichara" />
         <item itemvalue="Application.LoginSystem" />
       </list>
     </recent_temporary>
@@ -88,6 +98,15 @@
       <option name="presentableId" value="Default" />
       <updated>1735155875569</updated>
     </task>
+    <task id="LOCAL-00001" summary="versao 1">
+      <option name="closed" value="true" />
+      <created>1735166668415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735166668415</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="versao 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="versao 1" />
   </component>
 </project>
