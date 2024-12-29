@@ -1,10 +1,10 @@
 package HelpBuy;
 
 public class Calcular {
-    public double precoUM(double precoProd, double qtdVolProd){
-        double precoPun = 0.0;
-        precoPun = precoProd/qtdVolProd;
+    public double costPerQtdProdVol(double prodPrice, double qtdProdVol){
+        double prodCost;
+        prodCost = prodPrice/qtdProdVol;
 
-        return precoPun;
+        return prodCost;
     }
 }
