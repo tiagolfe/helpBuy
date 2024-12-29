@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0aa90b2-95a6-4416-9e45-83d7d70f1568" name="Changes" comment="implementando o calculo de valor por unidade de medida">
+    <list default="true" id="d0aa90b2-95a6-4416-9e45-83d7d70f1568" name="Changes" comment="implementando o README">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelpBuy/Calcular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelpBuy/Calcular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelpBuy/HelpBuy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelpBuy/HelpBuy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +48,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HelpBuy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoginSystem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sistema_Bichara.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;development&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.log&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelpBuy.executor": "Run",
+    "Application.LoginSystem.executor": "Run",
+    "Application.Sistema_Bichara.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "development",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "vcs.log"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.HelpBuy">
     <configuration name="HelpBuy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelpBuy.HelpBuy" />
@@ -112,7 +114,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735261566453</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="implementando o README">
+      <option name="closed" value="true" />
+      <created>1735264640372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735264640372</updated>
+    </task>
+    <task id="LOCAL-00004" summary="implementando o README">
+      <option name="closed" value="true" />
+      <created>1735264673561</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735264673561</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +147,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="versao 1" />
     <MESSAGE value="implementando o calculo de valor por unidade de medida" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementando o calculo de valor por unidade de medida" />
+    <MESSAGE value="implementando o README" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementando o README" />
   </component>
 </project>
